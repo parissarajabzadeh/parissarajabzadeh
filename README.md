@@ -76,6 +76,4 @@ Master's Student in Computer Science @ FU Berlin
 <!--START_SECTION:waka-->
       
 
-
-
 <!--END_SECTION:waka-->
