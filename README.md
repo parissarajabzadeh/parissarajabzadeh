@@ -11,16 +11,18 @@ Master's Student in Computer Science @ FU Berlin
 # 🧩 Technical Stack
 
 <table>
+  <!-- Programming Languages -->
   <tr>
-    <td><b>👨‍💻 Programming Languages</b></td>
+    <td width="200"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" /> <b>Programming Languages</b></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
     </td>
   </tr>
 
+  <!-- ML / Data Science -->
   <tr>
-    <td><b>🤖 Machine Learning & Data Science</b></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="20" /> <b>Machine Learning & Data Science</b></td>
     <td>
       <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
       <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -29,8 +31,9 @@ Master's Student in Computer Science @ FU Berlin
     </td>
   </tr>
 
+  <!-- Deep Learning -->
   <tr>
-    <td><b>🧠 Deep Learning</b></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="20" /> <b>Deep Learning</b></td>
     <td>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -38,8 +41,9 @@ Master's Student in Computer Science @ FU Berlin
     </td>
   </tr>
 
+  <!-- NLP & LLM Tools -->
   <tr>
-    <td><b>🗣️ NLP & LLM Tools</b></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" width="20" /> <b>NLP & LLM Tools</b></td>
     <td>
       <img src="https://img.shields.io/badge/Transformers-F9DC5C?style=for-the-badge&logo=huggingface&logoColor=black" />
       <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
@@ -47,8 +51,9 @@ Master's Student in Computer Science @ FU Berlin
     </td>
   </tr>
 
+  <!-- LLM APIs -->
   <tr>
-    <td><b>🧠 LLMs API</b></td>
+    <td><img src="https://cdn-icons-png.flaticon.com/512/4712/4712100.png" width="20" /> <b>LLMs API</b></td>
     <td>
       <img src="https://img.shields.io/badge/Claude-111111?style=for-the-badge&logo=anthropic&logoColor=white" />
       <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
@@ -59,8 +64,9 @@ Master's Student in Computer Science @ FU Berlin
     </td>
   </tr>
 
+  <!-- Development Tools -->
   <tr>
-    <td><b>🛠 Development Tools</b></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" /> <b>Development Tools</b></td>
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -68,8 +74,9 @@ Master's Student in Computer Science @ FU Berlin
     </td>
   </tr>
 
+  <!-- IDEs -->
   <tr>
-    <td><b>💻 IDEs & Notebooks</b></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20" /> <b>IDEs & Notebooks</b></td>
     <td>
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
       <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
@@ -78,6 +85,7 @@ Master's Student in Computer Science @ FU Berlin
     </td>
   </tr>
 </table>
+
 
 
 
