@@ -8,128 +8,96 @@ Master's Student in Computer Science @ FU Berlin
 </p>
 
 ---
-
-# 🧩 Technical Stack
+## 🛠️ Technical Stack
 
 <table>
-  <!-- Programming Languages -->
-  <tr>
-    <td width="220">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18"/>&nbsp;
-      Programming Languages
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="22"/>
-      <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" height="22"/>
+<tr>
+<td><strong>💻 Programming Languages</strong></td>
+<td>
+  <img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=2BA1B9" alt="Python" height="20" />
+      <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" alt="java" height="20"/>
     </td>
   </tr>
 
-  <!-- ML / Data Science -->
+ 
   <tr>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="18"/>&nbsp;
-      Machine Learning & Data Science
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" height="22"/>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" height="22"/>
-      <img src="https://img.shields.io/badge/Matplotlib-013243?style=flat&logo=matplotlib&logoColor=white" height="22"/>
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" height="22"/>
-    </td>
+    <td><strong>🤖 ML/DL Frameworks</strong></td>
+<td>
+  <img src="https://img.shields.io/badge/TensorFlow-282C34?logo=tensorflow" alt="TensorFlow" height="20" />
+  <img src="https://img.shields.io/badge/PyTorch-282C34?logo=pytorch" alt="PyTorch" height="20" />
+  <!-- <img src="https://img.shields.io/badge/JAX-282C34?style=flat" alt="JAX" height="20" /> -->
+  <img src="https://img.shields.io/badge/Keras-282C34?logo=keras&logoColor=D00000" alt="Keras" height="20" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-282C34?logo=scikit-learn" alt="Scikit Learn" height="20" />
+</td>
   </tr>
 
-  <!-- Deep Learning -->
-  <tr>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="18"/>&nbsp;
-      Deep Learning
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" height="22"/>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" height="22"/>
-      <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" height="22"/>
-    </td>
-  </tr>
 
-  <!-- NLP & LLM Tools -->
-  <tr>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" width="18"/>&nbsp;
-      NLP & LLM Tools
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Transformers-F9DC5C?style=flat&logo=huggingface&logoColor=black" height="22"/>
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" height="22"/>
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white" height="22"/>
-    </td>
-  </tr>
+
 
   <!-- LLMs API -->
   <tr>
-    <td>
-      <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="18"/>&nbsp;
-      LLMs API
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Claude-111111?style=flat&logo=anthropic&logoColor=white" height="22"/>
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" height="22"/>
-      <img src="https://img.shields.io/badge/DeepSeek-000000?style=flat&logo=deepseek&logoColor=white" height="22"/>
-      <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white" height="22"/>
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white" height="22"/>
-      <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" height="22"/>
-    </td>
+    <td><strong>🧠 LLMs API</strong></td>
+<td>
+  <img src="https://img.shields.io/badge/Claude-282C34?logo=claude" alt="Claude" height="20" />
+  <img src="https://img.shields.io/badge/OpenAI-282C34?logo=openai" alt="OpenAI" height="20" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Deepseek-282C34?logo=deepseek" alt="Deepseek" height="20" />
+  <img src="https://img.shields.io/badge/Gemini-282C34?logo=googlegemini&logoColor=008ECC" alt="Gemini" height="20" />
+  <img src="https://img.shields.io/badge/🦜🔗_LangChain-282C34?logoColor=white" alt="LangChain" height="20" />
+  <img src="https://img.shields.io/badge/Ollama-282C34?logo=ollama" alt="Ollama" height="20" />
+</td>
   </tr>
 
   <!-- Development Tools -->
   <tr>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="18"/>&nbsp;
-      Development Tools
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="22"/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="22"/>
-      <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white" height="22"/>
-    </td>
+    <td><strong>🛠️ Development Tools</strong></td>
+<td>
+  <img src="https://img.shields.io/badge/Git-282C34?logo=git" alt="Git" height="20" />
+  <img src="https://img.shields.io/badge/GitHub-282C34?logo=github" alt="GitHub" height="20" />
+  <img src="https://img.shields.io/badge/GitLab-282C34?logo=gitlab" alt="GitLab" height="20" />
+</td>
   </tr>
 
   <!-- IDEs -->
   <tr>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="18"/>&nbsp;
-      IDEs & Notebooks
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" height="22"/>
-      <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white" height="22"/>
-      <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" height="22"/>
-      <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudio&logoColor=white" height="22"/>
-    </td>
+   <td><strong>💻 IDEs</strong></td>
+<td>
+  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-282C34.svg?logo=vsc&logoColor=007ACC" alt="VS Code" height="20" />
+  <img src="https://img.shields.io/badge/PyCharm-282C34?logo=pycharm" alt="PyCharm" height="20" />
+  <!-- <img src="https://img.shields.io/badge/IntelliJ_IDEA-282C34?logo=intellij-idea" alt="IntelliJ IDEA" height="20" /> -->
+  <!-- <img src="https://img.shields.io/badge/Jupyter-282C34?logo=jupyter&logoColor=ffffff" alt="Jupyter" height="20" /> -->
+  <img src="https://img.shields.io/badge/Colab-282C34?logo=google-colab&logoColor=ffffff" alt="Colab" height="20" />
+  <img src="https://img.shields.io/badge/RStudio-282C34?logo=rstudio&logoColor=ffffff" alt="RStudio" height="20" />
+</td>
   </tr>
 </table>
 
 
----
 
-# 📊 Coding Stats (WakaTime)
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C486%20hrs%2024%20mins-blue)
 
-> These stats update automatically once you connect WakaTime.
+📊 **This Week I Spent My Time On** 
 
-```txt
-💻 Programming Languages:
-Python        ███████████████████░░   50.29 %
-TeX           ████████░░░░░░░░░░░░   19.73 %
-Markdown      ████░░░░░░░░░░░░░░░    14.96 %
-Bash          ██░░░░░░░░░░░░░░░░░     7.91 %
-JSON          █░░░░░░░░░░░░░░░░░░     3.12 %
+```text
+💬 Programming Languages: 
+Python                   5 hrs 49 mins       █████████████░░░░░░░░░░░░   50.29 % 
+TeX                      2 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
+Markdown                 1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+Bash                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 
-🔥 Editors:
-VS Code       ██████████████████████ 100 %
+🔥 Editors: 
+VS Code                  11 hrs 34 mins      █████████████████████████   100.00 % 
 
-🐱 Projects:
-GATA          ███████████░░░░░░░░░░   54.48 %
-Txt2SQL       ██████░░░░░░░░░░░░░░    34.23 %
-ALTI-XAI      ██░░░░░░░░░░░░░░░░░░    11.29 %
+🐱‍💻 Projects: 
+GATA                     6 hrs 18 mins       ██████████████░░░░░░░░░░░   54.48 % 
+Txt2SQL                  3 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   34.23 % 
+ALTI-XAI                 1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
 
-🖥️ Operating System:
-Linux         ██████████████████████ 100 %
+💻 Operating System: 
+Linux                    11 hrs 34 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 08/12/2025 07:09:07 UTC
+<!--END_SECTION:waka-->
