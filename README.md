@@ -74,13 +74,22 @@ Master's Student in Computer Science @ FU Berlin
 
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
-```txt
-From: 30 November 2025 - To: 07 December 2025
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
 
-Total Time: 0 secs
+🔥 Editors: 
+No Activity Tracked This Week
 
-No activity tracked
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
 ```
 
+
+ Last Updated on 09/12/2025 07:17:30 UTC
 <!--END_SECTION:waka-->
