@@ -74,6 +74,8 @@ Master's Student in Computer Science @ FU Berlin
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -91,5 +93,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 09/12/2025 07:17:30 UTC
+ Last Updated on 10/12/2025 07:18:10 UTC
 <!--END_SECTION:waka-->
